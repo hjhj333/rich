@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('Rùa')
     .setDetails(`Rùa`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1252235328740265994/1252651048238321674/IMG_2337.png?ex=6672fdb3&is=6671ac33&hm=4e08bc8dc8f6d88bd91a2f305c80932c4b07083cf22a3e1838eecd903625f6fc&=&format=webp&quality=lossless&width=526&height=525') //Bạn có thể đặt liên kết ở dạng tenor hoặc discord, v.v.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1247530935042310225/1252777826961063956/7E4D9D97-6F79-4B5A-8151-CE81DFE9AF59.jpg?ex=66756e05&is=66741c85&hm=e8d0c07a84373fcea601b381fe4c0d13b9a7c623fd013dc13af3aefd8f6b816e&=&format=webp&width=369&height=655') //Bạn có thể đặt liên kết ở dạng tenor hoặc discord, v.v.
     .setAssetsLargeText('Em bé xíu gọi là em bé iu') //Văn bản khi bạn di chuột vào Hình ảnh lớn
     //.setAssetsSmallImage('https://media.discordapp.net/attachments/1204070941836054539/1250521568824655892/bun1.jpg?ex=666be737&is=666a95b7&hm=a7bcc94bc33a94c4a290a2dd7b8dc4cecf7b059d6704423910f411624761c014&=&format=webp&width=492&height=655') //Bạn có thể đặt liên kết ở dạng tenor hoặc discord, v.v.
     .setAssetsSmallText('Meow Meow') //Văn bản khi bạn di chuột vào Hình ảnh nhỏ
